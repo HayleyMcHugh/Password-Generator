@@ -32,6 +32,8 @@ if (pickedNumbers) {
   if (pickedLowerLetters){character=character.concat(splitLowerLetters)}
   if (pickedUpperLetters){character=character.concat(splitUpperLetters)}
   if (pickedSymbols){character=character.concat(splitLowerSymbols)}
+
+  return password;
 }
 
 function writePassword() {
