@@ -3,7 +3,7 @@ var generateBtn = document.querySelector("#generate");
 var lowerLetters = "abcdefghijklmnopqrstuvwxyz"
 var upperLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 var numbers = [1,2,3,4,5,6,7,8,9,0]
-var symbols = "'!@#$%^&*()_+"
+var symbols = "!@#$%^&*()_+"
 
 var splitLowerLetters = lowerLetters.split("")
 var splitUpperLetters = upperLetters.split("")
@@ -44,3 +44,6 @@ function writePassword() {
 }
 
 generateBtn.addEventListener("click", writePassword);
+
+generatePassword ()
+writePassword ()
