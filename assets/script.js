@@ -36,7 +36,7 @@ function generatePassword() {
 }
 
 function writePassword() {
-  passwordLength = window.prompt("Please choose a password length (min 8 characters)")
+  passwordLength = window.prompt("Please choose a password length")
   pickedLowerLetters = window.confirm("Confirm if you want lowercase letters")
   pickedUpperLetters = window.confirm("Confirm if you want uppercase letters")
   pickedNumbers = window.confirm("Confirm if you want numbers")
