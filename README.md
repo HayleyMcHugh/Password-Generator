@@ -4,7 +4,7 @@ Week 3 homework where we had to create a password generator using what we'd lear
 
 # Usage
 
-<a href="https://watch.screencastify.com/v/iPbyUt8ExhchZ7e6fyXV"></a>
+https://watch.screencastify.com/v/iPbyUt8ExhchZ7e6fyXV
 
 <a href="https://hayleymchugh.github.io/Password-Generator/">Deployed Generator</a>
 
